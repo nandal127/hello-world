@@ -1,2 +1,5 @@
 # hello-world
-Beginning
+## 신경섭 벌레
+"`
+print("Hello world");
+"`
